@@ -1,0 +1,8 @@
+C:\CursoCSharp\Curso-CSharp\05-ConversionTiposNumericos\bin\Debug\05-ConversionTiposNumericos.exe.config
+C:\CursoCSharp\Curso-CSharp\05-ConversionTiposNumericos\bin\Debug\05-ConversionTiposNumericos.exe
+C:\CursoCSharp\Curso-CSharp\05-ConversionTiposNumericos\bin\Debug\05-ConversionTiposNumericos.pdb
+C:\CursoCSharp\Curso-CSharp\05-ConversionTiposNumericos\obj\Debug\05-ConversionTiposNumericos.csproj.AssemblyReference.cache
+C:\CursoCSharp\Curso-CSharp\05-ConversionTiposNumericos\obj\Debug\05-ConversionTiposNumericos.csproj.SuggestedBindingRedirects.cache
+C:\CursoCSharp\Curso-CSharp\05-ConversionTiposNumericos\obj\Debug\05-ConversionTiposNumericos.csproj.CoreCompileInputs.cache
+C:\CursoCSharp\Curso-CSharp\05-ConversionTiposNumericos\obj\Debug\05-ConversionTiposNumericos.exe
+C:\CursoCSharp\Curso-CSharp\05-ConversionTiposNumericos\obj\Debug\05-ConversionTiposNumericos.pdb

@@ -10,6 +10,15 @@ namespace _02_Variables
     {
         static void Main(string[] args)
         {
+            int valor;
+            valor = 14 * (2 + 5);
+
+            Console.WriteLine(valor);
+            Console.Write("El resultado de la operación es ");
+            Console.WriteLine(valor);
+            
+            //nombre = "Leonardo";
+            Console.ReadLine();
         }
     }
 }
