@@ -1,0 +1,8 @@
+C:\CursoCSharp\Curso-CSharp\08-VariablesQueGuardanValores\bin\Debug\08-VariablesQueGuardanValores.exe.config
+C:\CursoCSharp\Curso-CSharp\08-VariablesQueGuardanValores\bin\Debug\08-VariablesQueGuardanValores.exe
+C:\CursoCSharp\Curso-CSharp\08-VariablesQueGuardanValores\bin\Debug\08-VariablesQueGuardanValores.pdb
+C:\CursoCSharp\Curso-CSharp\08-VariablesQueGuardanValores\obj\Debug\08-VariablesQueGuardanValores.csproj.AssemblyReference.cache
+C:\CursoCSharp\Curso-CSharp\08-VariablesQueGuardanValores\obj\Debug\08-VariablesQueGuardanValores.csproj.SuggestedBindingRedirects.cache
+C:\CursoCSharp\Curso-CSharp\08-VariablesQueGuardanValores\obj\Debug\08-VariablesQueGuardanValores.csproj.CoreCompileInputs.cache
+C:\CursoCSharp\Curso-CSharp\08-VariablesQueGuardanValores\obj\Debug\08-VariablesQueGuardanValores.exe
+C:\CursoCSharp\Curso-CSharp\08-VariablesQueGuardanValores\obj\Debug\08-VariablesQueGuardanValores.pdb
