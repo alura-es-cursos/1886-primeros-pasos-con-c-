@@ -1,0 +1,8 @@
+C:\CursoCSharp\Curso-CSharp\10-VariablesBooleanas\bin\Debug\10-VariablesBooleanas.exe.config
+C:\CursoCSharp\Curso-CSharp\10-VariablesBooleanas\bin\Debug\10-VariablesBooleanas.exe
+C:\CursoCSharp\Curso-CSharp\10-VariablesBooleanas\bin\Debug\10-VariablesBooleanas.pdb
+C:\CursoCSharp\Curso-CSharp\10-VariablesBooleanas\obj\Debug\10-VariablesBooleanas.csproj.AssemblyReference.cache
+C:\CursoCSharp\Curso-CSharp\10-VariablesBooleanas\obj\Debug\10-VariablesBooleanas.csproj.SuggestedBindingRedirects.cache
+C:\CursoCSharp\Curso-CSharp\10-VariablesBooleanas\obj\Debug\10-VariablesBooleanas.csproj.CoreCompileInputs.cache
+C:\CursoCSharp\Curso-CSharp\10-VariablesBooleanas\obj\Debug\10-VariablesBooleanas.exe
+C:\CursoCSharp\Curso-CSharp\10-VariablesBooleanas\obj\Debug\10-VariablesBooleanas.pdb

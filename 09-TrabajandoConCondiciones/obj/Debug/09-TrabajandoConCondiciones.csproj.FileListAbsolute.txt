@@ -1,0 +1,8 @@
+C:\CursoCSharp\Curso-CSharp\09-TrabajandoConCondiciones\bin\Debug\09-TrabajandoConCondiciones.exe.config
+C:\CursoCSharp\Curso-CSharp\09-TrabajandoConCondiciones\bin\Debug\09-TrabajandoConCondiciones.exe
+C:\CursoCSharp\Curso-CSharp\09-TrabajandoConCondiciones\bin\Debug\09-TrabajandoConCondiciones.pdb
+C:\CursoCSharp\Curso-CSharp\09-TrabajandoConCondiciones\obj\Debug\09-TrabajandoConCondiciones.csproj.AssemblyReference.cache
+C:\CursoCSharp\Curso-CSharp\09-TrabajandoConCondiciones\obj\Debug\09-TrabajandoConCondiciones.csproj.SuggestedBindingRedirects.cache
+C:\CursoCSharp\Curso-CSharp\09-TrabajandoConCondiciones\obj\Debug\09-TrabajandoConCondiciones.csproj.CoreCompileInputs.cache
+C:\CursoCSharp\Curso-CSharp\09-TrabajandoConCondiciones\obj\Debug\09-TrabajandoConCondiciones.exe
+C:\CursoCSharp\Curso-CSharp\09-TrabajandoConCondiciones\obj\Debug\09-TrabajandoConCondiciones.pdb
