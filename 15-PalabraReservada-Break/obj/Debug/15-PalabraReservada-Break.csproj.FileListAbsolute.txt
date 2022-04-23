@@ -1,0 +1,8 @@
+C:\CursoCSharp\Curso-CSharp\15-PalabraReservada-Break\bin\Debug\15-PalabraReservada-Break.exe.config
+C:\CursoCSharp\Curso-CSharp\15-PalabraReservada-Break\bin\Debug\15-PalabraReservada-Break.exe
+C:\CursoCSharp\Curso-CSharp\15-PalabraReservada-Break\bin\Debug\15-PalabraReservada-Break.pdb
+C:\CursoCSharp\Curso-CSharp\15-PalabraReservada-Break\obj\Debug\15-PalabraReservada-Break.csproj.AssemblyReference.cache
+C:\CursoCSharp\Curso-CSharp\15-PalabraReservada-Break\obj\Debug\15-PalabraReservada-Break.csproj.SuggestedBindingRedirects.cache
+C:\CursoCSharp\Curso-CSharp\15-PalabraReservada-Break\obj\Debug\15-PalabraReservada-Break.csproj.CoreCompileInputs.cache
+C:\CursoCSharp\Curso-CSharp\15-PalabraReservada-Break\obj\Debug\15-PalabraReservada-Break.exe
+C:\CursoCSharp\Curso-CSharp\15-PalabraReservada-Break\obj\Debug\15-PalabraReservada-Break.pdb

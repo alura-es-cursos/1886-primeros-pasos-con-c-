@@ -1,0 +1,8 @@
+C:\CursoCSharp\Curso-CSharp\12-EstructuraRepeticionWhile\bin\Debug\12-EstructuraRepeticionWhile.exe.config
+C:\CursoCSharp\Curso-CSharp\12-EstructuraRepeticionWhile\bin\Debug\12-EstructuraRepeticionWhile.exe
+C:\CursoCSharp\Curso-CSharp\12-EstructuraRepeticionWhile\bin\Debug\12-EstructuraRepeticionWhile.pdb
+C:\CursoCSharp\Curso-CSharp\12-EstructuraRepeticionWhile\obj\Debug\12-EstructuraRepeticionWhile.csproj.AssemblyReference.cache
+C:\CursoCSharp\Curso-CSharp\12-EstructuraRepeticionWhile\obj\Debug\12-EstructuraRepeticionWhile.csproj.SuggestedBindingRedirects.cache
+C:\CursoCSharp\Curso-CSharp\12-EstructuraRepeticionWhile\obj\Debug\12-EstructuraRepeticionWhile.csproj.CoreCompileInputs.cache
+C:\CursoCSharp\Curso-CSharp\12-EstructuraRepeticionWhile\obj\Debug\12-EstructuraRepeticionWhile.exe
+C:\CursoCSharp\Curso-CSharp\12-EstructuraRepeticionWhile\obj\Debug\12-EstructuraRepeticionWhile.pdb

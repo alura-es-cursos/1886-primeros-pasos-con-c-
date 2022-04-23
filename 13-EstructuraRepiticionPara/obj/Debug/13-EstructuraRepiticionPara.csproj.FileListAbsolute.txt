@@ -1,0 +1,8 @@
+C:\CursoCSharp\Curso-CSharp\13-EstructuraRepiticionPara\bin\Debug\13-EstructuraRepiticionPara.exe.config
+C:\CursoCSharp\Curso-CSharp\13-EstructuraRepiticionPara\bin\Debug\13-EstructuraRepiticionPara.exe
+C:\CursoCSharp\Curso-CSharp\13-EstructuraRepiticionPara\bin\Debug\13-EstructuraRepiticionPara.pdb
+C:\CursoCSharp\Curso-CSharp\13-EstructuraRepiticionPara\obj\Debug\13-EstructuraRepiticionPara.csproj.AssemblyReference.cache
+C:\CursoCSharp\Curso-CSharp\13-EstructuraRepiticionPara\obj\Debug\13-EstructuraRepiticionPara.csproj.SuggestedBindingRedirects.cache
+C:\CursoCSharp\Curso-CSharp\13-EstructuraRepiticionPara\obj\Debug\13-EstructuraRepiticionPara.csproj.CoreCompileInputs.cache
+C:\CursoCSharp\Curso-CSharp\13-EstructuraRepiticionPara\obj\Debug\13-EstructuraRepiticionPara.exe
+C:\CursoCSharp\Curso-CSharp\13-EstructuraRepiticionPara\obj\Debug\13-EstructuraRepiticionPara.pdb
